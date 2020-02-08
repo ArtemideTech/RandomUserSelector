@@ -1,0 +1,6 @@
+
+*.xml
+out/artifacts/RandomUserSelector_jar/RandomUserSelector.jar
+plugin.yml
+*.iml
+out/production/RandomUserSelector/it/artmistech/randomuserselector/RandomUserSelector.class
